@@ -6,6 +6,8 @@ It is a permissive license, the only requirement being including the notice in d
 
 Based on the MIT license, it is designed to be legally valid, but it adds a friendly touch with the mention of tea.
 
+You can use the license wherever you like, without any restrictions!
+
 ## Full License
 
 ```md
